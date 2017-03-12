@@ -1,6 +1,7 @@
 package data.structure;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -13,5 +14,9 @@ public class SqList {
         list.add("");
         list.get(1);
         list.set(1, "");
+        list.isEmpty();
+        list.clear();
+
+//        Math
     }
 }
